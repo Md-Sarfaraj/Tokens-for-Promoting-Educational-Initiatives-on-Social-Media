@@ -8,6 +8,8 @@ EduTokens is a blockchain-based project designed to incentivize and reward indiv
 
 ## Contract Address
 0xDadAf3f9DE191DC231F594D82d67f8d2C14B5F59
+![image](https://github.com/user-attachments/assets/2928fb45-3443-4beb-b53d-5b02077b02a9)
+
 
 ## Project Vision
 The vision of EduTokens is to create a decentralized ecosystem where social media activities aligned with educational development are recognized and rewarded. By leveraging blockchain technology, the project ensures transparency, accountability, and equitable distribution of rewards, fostering a global culture of learning and awareness.
